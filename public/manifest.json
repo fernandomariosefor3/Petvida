@@ -1,0 +1,22 @@
+{
+  "name": "PetVida - Cuidados Inteligentes",
+  "short_name": "PetVida",
+  "description": "Gerencie a saúde e agenda do seu pet com IA.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F0",
+  "theme_color": "#FF6B35",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/petvida-192/192/192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/petvida-512/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

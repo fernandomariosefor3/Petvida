@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Nunito", ui-sans-serif, system-ui, sans-serif;
+  --color-brand-orange: #FF6B35;
+  --color-brand-cream: #FFF8F0;
+  --color-brand-brown: #2D1B0E;
+}
+
+@layer base {
+  body {
+    @apply bg-brand-cream text-brand-brown font-sans;
+  }
+}
+
+.glass-card {
+  @apply bg-white/80 backdrop-blur-md border border-white/20 shadow-sm;
+}
