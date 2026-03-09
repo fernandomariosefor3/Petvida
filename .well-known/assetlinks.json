@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.fernandomariosefor3.twa",
-    "sha256_cert_fingerprints": ["1E:57:72:7A:8A:CA:1F:CF:87:25:ED:19:FF:20:23:DB:41:78:4E:FA:7F:7E:0E:2D:41:2C:F4:60:EE:EE:10:9E"]
+    "sha256_cert_fingerprints": ["6F:CC:FC:00:B1:69:83:92:EB:C9:C5:19:26:5C:C1:9C:F1:79:4A:BA:21:A8:37:83:68:4B:80:92:31:17:62:BA"]
   }
 }]
