@@ -1,0 +1,15 @@
+# INFORMAÇÕES DE ASSINATURA DO APP ANDROID (PETVIDA)
+# GUARDE ESTE ARQUIVO EM LOCAL SEGURO!
+
+Key store file: signing.keystore
+Key store password: w8CXi2yTyr2c
+Key alias: my-key-alias
+Key password: w8CXi2yTyr2c
+
+Signer's full name: PetVida Admin
+Signer's organization: PetVida
+Signer's country code: US
+
+# Para que o app funcione sem a barra do navegador, o arquivo 
+# .well-known/assetlinks.json deve estar acessível em:
+# https://fernandomariosefor3.github.io/Petvida/.well-known/assetlinks.json
