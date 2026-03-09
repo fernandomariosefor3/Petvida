@@ -1,4 +1,5 @@
 {
+  "id": "/Petvida/",
   "name": "PetVida",
   "short_name": "PetVida",
   "description": "Cuidados inteligentes para seu pet",
@@ -8,6 +9,7 @@
   "orientation": "portrait",
   "background_color": "#FFF8F0",
   "theme_color": "#FF6B35",
+  "categories": ["lifestyle", "utilities"],
   "icons": [
     {
       "src": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
@@ -16,17 +18,17 @@
       "purpose": "any"
     },
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
-      "sizes": "192x192",
+      "src": "https://cdn-icons-png.flaticon.com/128/616/616408.png",
+      "sizes": "128x128",
       "type": "image/png",
       "purpose": "any"
     }
   ],
   "screenshots": [
     {
-      "src": "https://picsum.photos/seed/petvida/720/1280",
+      "src": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?q=80&w=720&h=1280&auto=format&fit=crop",
       "sizes": "720x1280",
-      "type": "image/png",
+      "type": "image/jpeg",
       "form_factor": "narrow",
       "label": "Tela inicial do PetVida"
     }
